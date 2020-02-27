@@ -1,0 +1,451 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2020-02-20 06:00:45.316864'
+    - '2020-02-20 06:00:45.316864'
+
+---
+articles:
+  columns:
+  - id
+  - title
+  - body
+  - created_at
+  - updated_at
+  - image_file_name
+  - image_content_type
+  - image_file_size
+  - image_updated_at
+  records: 
+  - - 1
+    - Bruh Momentum
+    - Now today we'll be learning about bruh momentum. Now to understand "bruh" momentum,
+      we need to understand what a "bruh" moment is. A "bruh" moment is a moment eliciting
+      such a strong emotional reaction from a person that they can only react with
+      "bruh". Now how large or small that "bruh" is will determine its "bruh" mass.
+      For example, Karen taking the kids will carry a much larger "bruh" mass than
+      when your pizza rolls are not finished. Now how fast this situation hits you
+      will determine its "bruh" velocity represented by "V" and do not forget that
+      it is a vector quantity. Now combing your knowledge of these two things, you
+      can find "bruh" momentum, also a vector quantity by the vector of its "bruh"
+      mass and "bruh" velocity. Now, try it!
+    - '2020-02-21 01:58:00.368898'
+    - '2020-02-25 00:59:13.678089'
+    - momentum.png
+    - image/png
+    - 11869
+    - '2020-02-25 00:59:13.655476'
+  - - 3
+    - 次はJOTARO!
+    - 貴様だ.
+    - '2020-02-21 02:02:35.407222'
+    - '2020-02-25 01:24:08.030729'
+    - jotarovsdio.png
+    - image/png
+    - 235110
+    - '2020-02-25 01:24:08.018000'
+  - - 10
+    - Using Quantum Mechanics to Prove that Traps aren't Gay
+    - "Ladies and gentlemen, the answer to the question \"Are Traps Gay?\" has finally
+      been solved and it involves quantum mechanics.\r\n\r\nNow, in case you don't
+      know what quantum mechanics are, \"quantum mechanics is the study of how subatomic
+      particles interact with the world.\" Now, his entire study is based on the theory
+      of \"Shrodinger's Cat.\" While most of you are probably familiar with it, I'll
+      explain it anyway. Imagine it like this: you have a Neko inside of a box. Now,
+      until you open the box, you can't know if this Neko is cute or not. Therefore,
+      until this box is opened, the Neko is both Cute and Not Cute until you definitively
+      observe whether she is cute or not.\r\n\r\nNow, this gets applied to the real
+      world in the way that light works. The way that light works is that sometimes
+      it acts as a wave but other times it acts as a particle. Which it acts as changes
+      whether or not you observe it.\r\n\r\nNow, to bring this back to traps. I have
+      this theory that I like to call \"Shrodinger's Shlong.\" Here's how it goes:
+      You don't know if a trap has a dick or not until you observe it. Therefore,
+      traps are both Gay and Not Gay until you observe the Penis. However, when you
+      think about it, if you actually go out of your way to observe the penis and
+      confirm it or not, that's kind of gay because when you're actively searching
+      to observe it, there's a chance that you might observe the penis, and that seems
+      proof enough.\r\n\r\nTherefore, the people that don't seek to confirm whether
+      or not the trap is actually a man or not are the ones who aren't gay. So, the
+      way that you see it here is that living in ignorance is the only way to avoid
+      traps being gay. However, when you think about it, the traps only really become
+      gay when we observe them. Therefore, we are the ones that make the traps gay,
+      not the traps being gay themselves.\r\n\r\nSo, when you think about it: is it
+      the traps that are really gay - or is it us?"
+    - '2020-02-21 05:15:52.995668'
+    - '2020-02-25 01:53:21.096926'
+    - Trap_.png
+    - image/png
+    - 397178
+    - '2020-02-25 01:53:21.085747'
+  - - 11
+    - Hey, Vsauce. Michael here!
+    - Where are your fingers? Seriously. It's a pretty easy question. You should be
+      able to answer it. But how do you know? How does anyone know anything? You might
+      say, well, I know where my fingers are. I'm looking right at them. Or, I can
+      touch them, I can feel them, they're right here and that's good. Your senses
+      are a great way to learn things. In fact, we have way more than the usual five
+      senses we talk about. For instance, your kinesthetic sense, proprioception.
+      This is what the police evaluate during a field sobriety test. It allows you
+      to tell where your fingers and arms and head and legs in your body is all in
+      relation to each other without having to look or touch other things. We have
+      way more than five senses, we have at least twice as many and then some. But
+      they're not perfect. There are optical illusions, audio illusions, temperature
+      sensation illusions, even tactile illusions. Can you turn your tongue upside
+      down? If so, perfect. Try this. Run your finger along the outer edge of the
+      tip of your upside down tongue. Your tongue will be able to feel your finger,
+      but in the wrong place. Our brains never needed to develop an understanding
+      of upside down tongue touch. So, when you touch the right side of your tongue
+      when it's flipped over to your left side you perceive a sensation on the opposite
+      side, where your tongue usually is but isn't when it's upside down. It's pretty
+      freaky and cool and a little humbling, because it shows the limits of the accuracy
+      of our senses, the only tools we have to get what's out there in here. The philosophy
+      of knowledge, the study of knowing, is called epistemology. Plato famously said
+      that the things we know are things that are true, that we believe and that we
+      have justification for believing. those justifications might be irrational or
+      they might be rational, they might be based on proof, but don't get too confident
+      because proven is not a synonym for true. Luckily, there are things that we
+      can know without needing proof, without needing to even leave the house, things
+      that we can know as true by reason alone. These are things that we know a priori.
+      An example would be the statement "all bachelors are unmarried." I don't have
+      to go survey every bachelor on earth to know that that is true. All bachelors
+      are unmarried because that's how we define the word bachelor. Of course, you
+      have to know what the words bachelor and unmarried mean in the first place.
+      Oh, you do? Okay. Perfect. That's great. But how do you know? This time I mean
+      functionally, how do you know? Where is knowledge biologically in the brain?
+      What are memories made out of? We are a long way from being able to answer that
+      question completely but research has shown that memories don't exist in the
+      brain in single locations. Instead, what we call a memory is likely made up
+      of many different complex relationships all over the brain between lots of brain
+      cells, neurons. A major cellular mechanism thought to underlie the formation
+      of memories is long-term potentiation or LTP. When one neuron stimulates another
+      neuron repeatedly that signal can be enhanced overtime LTP, wiring them more
+      strongly together and that connection can last a long time, even an entire lifetime.
+      A collection of different brain cells, neurons that fire together in a particular
+      order over and over again frequently and repeatedly can achieve long-term potentiation,
+      becoming more sensitive to each other and more ready to fire in the exact same
+      way later on in the future. They're a physical thing in your brain, firing together
+      more easily because you strengthen that pattern of firing. You memorized. This
+      branching forest of firing friends looks messy, but look closer. It could be
+      the memory of your first kiss. A living souvenir of the event. If I were to
+      go into your brain and cut out those cells, could I make you forget your first
+      kiss or could I make you forget where your fingers are? Only if I cut out a
+      lot of your brain. Because memories aren't just stored in one relationship,
+      they're stored all over the brain. The events leading up to your first kiss
+      are stored in one network, the way it felt to the way it smelled in different
+      networks, all added up together making what you call the memory of your first
+      kiss. How many memories can you fit inside your head? What is the storage capacity
+      of the human brain? The best we can do is a rough estimate, but given the number
+      of neurons in the brain involved with memory and the number of different connections
+      a single neuron can make Paul Reber at Northwestern University estimated that
+      we can store the digital equivalent of about 2.5 petabytes of information. That's
+      the equivalent of recording a TV channel continuously for 300 years. That's
+      a lot of information. That is a lot of information about skills you can do and
+      facts and people you've met, things in the real world. The world is real, right?
+      How do you know? It's a difficult question, but it's not rocket science. Instead,
+      it is asking whether or not rocket scientists even exist in the first place.
+      The theory that the Sun moved around the earth worked great. It predicted that
+      the Sun would rise every morning and it did. It wasn't until later that we realized
+      what we thought was true might not be. So, do we or will we ever know true reality
+      or are we stuck in a world where the best we can do is be approximately true?
+      Discovering more and more useful theories every day but never actually reaching
+      true objective actual reality. Can science or reason ever prove convincingly
+      that your friends and YouTube videos and your fingers actually exist beyond
+      your mind? That you don't just live in the matrix? No. Your mind is all that
+      you have, even if you use instruments, like a telescope or particle accelerators.
+      The final stop for all of that information is ultimately you. You are alone
+      in your own brain, which technically makes it impossible to prove that anything
+      else exists. It's called the egocentric predicament. Everything you know about
+      the world out there depends on and is created inside your brain. This mattered
+      so much to Charles Sanders Peirce that he drew a line between reality, the way
+      the universe truly is, and what he called the phaneron, the world as filtered
+      through our senses and bodies, the only information we can get. If you want
+      to speak with certainty you live in, that is you react to and remember and experience
+      your phaneron, not reality. The belief that only you exist and everything else,
+      food, the universe, your friends are all figments of your mind is called solipsism.
+      There is no way to convince a solipsist that the outside world is real. And
+      there is no way to convince someone who doubts that the universe wasn't created
+      just three seconds ago along with all of our memories. It's a frightening realization
+      that we don't always know how to deal with. There's even The Matrix defense.
+      In 2002 Tonda Lynn Ansley shot and killed her landlady. She argued that she
+      believed she was in the matrix, that her crimes weren't real. By using the matrix
+      defense, she was found not guilty by reason of insanity, because the opposite
+      view is just way healthier and common. It's called realism. Realism is the belief
+      that the outside world exists independently of your own phaneron. Rocks and
+      stars and Thora Birch would continue to exist even if you weren't around to
+      experience them. But you cannot know realism is true. All you can do is believe.
+      Martin Gardner, a great source for math magic tricks, explained that he is not
+      a solipsist because realism is just way more convenient and healthy and it works.
+      As to whether it bothered him that he could never know realism was true, he
+      wrote, "If you ask me to tell you anything about the nature of what lies beyond
+      the phaneron, my answer is how should I know? I'm not dismayed by ultimate mysteries,
+      I can no more grasp what is behind such questions as my cat can understand what
+      is behind the clatter I make while I type this paragraph." Humble stuff. What
+      strikes me is the cat. Cats do not understand keyboards, but they know the keyboards
+      are a fun place to be. It's a great way to get the attention of a human, they're
+      warm and exciting, surrounded by noises and flashing lights plus cats love to
+      get their scent on whatever they can, a mark of their existence. We aren't that
+      much different, except instead of keyboards we have the mysteries of the universe.
+      We will never be able to understand all of them. We won't be able to ever answer
+      every single question, but walking around in those questions, exploring them,
+      is fun. It feels good. And as always, thanks for watching.
+    - '2020-02-21 05:16:42.374299'
+    - '2020-02-21 05:16:42.374299'
+    - 
+    - 
+    - 
+    - 
+  - - 12
+    - Spit Facts
+    - "1. Digestion begins in the mouth.\r\n\r\n2. There are bones inside your body.\r\n\r\n3.
+      60 seconds in Africa is 1 minute in the U.S.\r\n\r\n4. Fire is hot.\r\n\r\n5.
+      There is more than 13 gallons of water in the ocean.\r\n\r\n6. Mitochondria
+      is the power house of the cell."
+    - '2020-02-22 01:41:38.434068'
+    - '2020-02-22 02:02:03.090952'
+    - 
+    - 
+    - 
+    - 
+  - - 14
+    - WACK
+    - His hair? Wack! His gear? Wack! His jewelry? Wack! His foot stance? Wack! The
+      way that he talks? Wack! The way that he doesn’t even like to smile? Wack! Me?
+      I’m tight as FU
+    - '2020-02-22 03:16:35.068443'
+    - '2020-02-25 01:24:54.486965'
+    - WACK.jpg
+    - image/jpeg
+    - 27360
+    - '2020-02-25 01:24:54.477317'
+
+---
+authors:
+  columns:
+  - id
+  - username
+  - email
+  - crypted_password
+  - salt
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Six Brain
+    - bigbrain@gotasixpack.com
+    - "$2a$10$zcGbO/7v4RO11F74hQcFLOKNBnyBNwG8YXB0xOYNs97v7spRVYxG2"
+    - PMSB_rJ1VJb7UxmGUxfX
+    - '2020-02-25 03:44:05.338746'
+    - '2020-02-25 03:44:05.338746'
+
+---
+comments:
+  columns:
+  - id
+  - author_name
+  - body
+  - article_id
+  - created_at
+  - updated_at
+  records: 
+  - - 2
+    - Very prestigious man
+    - This Article was very insightful.
+    - 1
+    - '2020-02-22 02:56:24.454006'
+    - '2020-02-22 02:56:24.454006'
+  - - 3
+    - JOTARO
+    - 野郎. DIO!
+    - 3
+    - '2020-02-22 05:04:19.639390'
+    - '2020-02-22 05:04:19.639390'
+  - - 4
+    - DIO
+    - ほ? 向かってくるのか? 逃げずにこのDIOに近づいてくるのか?
+    - 3
+    - '2020-02-22 05:15:55.511486'
+    - '2020-02-22 05:15:55.511486'
+  - - 5
+    - JOTARO
+    - 近づかなきゃてめえをブチのめせいないんでな
+    - 3
+    - '2020-02-22 05:19:21.456313'
+    - '2020-02-22 05:19:21.456313'
+  - - 6
+    - DIO
+    - ほほう! では十分近づかないよい
+    - 3
+    - '2020-02-22 05:28:06.963890'
+    - '2020-02-22 05:28:06.963890'
+  - - 8
+    - Bruh
+    - Bruh
+    - 1
+    - '2020-02-22 05:48:10.851089'
+    - '2020-02-22 05:48:10.851089'
+  - - 9
+    - WACK
+    - This Article? Wack!
+    - 14
+    - '2020-02-22 05:52:05.906575'
+    - '2020-02-22 05:52:05.906575'
+  - - 10
+    - Epic Gamer
+    - With this newly found knowledge I am now capable of spitting FAX.
+    - 12
+    - '2020-02-22 05:56:40.782418'
+    - '2020-02-22 05:56:40.782418'
+
+---
+taggings:
+  columns:
+  - article_id
+  - tag_id
+  - article
+  - references
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - 6
+    - 
+    - 
+    - '2020-02-24 03:22:07.499445'
+    - '2020-02-24 03:22:07.499445'
+  - - 1
+    - 7
+    - 
+    - 
+    - '2020-02-24 03:22:07.500742'
+    - '2020-02-24 03:22:07.500742'
+  - - 1
+    - 9
+    - 
+    - 
+    - '2020-02-24 03:24:14.896079'
+    - '2020-02-24 03:24:14.896079'
+  - - 3
+    - 10
+    - 
+    - 
+    - '2020-02-24 03:25:19.134073'
+    - '2020-02-24 03:25:19.134073'
+  - - 3
+    - 11
+    - 
+    - 
+    - '2020-02-24 03:26:00.787858'
+    - '2020-02-24 03:26:00.787858'
+  - - 10
+    - 3
+    - 
+    - 
+    - '2020-02-24 03:18:51.924969'
+    - '2020-02-24 03:18:51.924969'
+  - - 10
+    - 4
+    - 
+    - 
+    - '2020-02-24 03:21:30.337042'
+    - '2020-02-24 03:21:30.337042'
+  - - 10
+    - 5
+    - 
+    - 
+    - '2020-02-24 03:21:30.338761'
+    - '2020-02-24 03:21:30.338761'
+  - - 10
+    - 6
+    - 
+    - 
+    - '2020-02-24 03:21:53.016517'
+    - '2020-02-24 03:21:53.016517'
+  - - 10
+    - 10
+    - 
+    - 
+    - '2020-02-24 03:25:34.256231'
+    - '2020-02-24 03:25:34.256231'
+  - - 11
+    - 6
+    - 
+    - 
+    - '2020-02-24 03:22:32.070664'
+    - '2020-02-24 03:22:32.070664'
+  - - 12
+    - 6
+    - 
+    - 
+    - '2020-02-24 03:23:02.588859'
+    - '2020-02-24 03:23:02.588859'
+  - - 12
+    - 8
+    - 
+    - 
+    - '2020-02-24 03:23:02.591464'
+    - '2020-02-24 03:23:02.591464'
+  - - 14
+    - 7
+    - 
+    - 
+    - '2020-02-24 03:23:49.240079'
+    - '2020-02-24 03:23:49.240079'
+  - - 14
+    - 9
+    - 
+    - 
+    - '2020-02-24 03:24:30.193671'
+    - '2020-02-24 03:24:30.193671'
+
+---
+tags:
+  columns:
+  - id
+  - name
+  - created_at
+  - updated_at
+  records: 
+  - - 3
+    - 猫
+    - '2020-02-24 03:18:51.900672'
+    - '2020-02-24 03:18:51.900672'
+  - - 4
+    - quantum physics
+    - '2020-02-24 03:21:30.330343'
+    - '2020-02-24 03:21:30.330343'
+  - - 5
+    - thought-provoking
+    - '2020-02-24 03:21:30.332523'
+    - '2020-02-24 03:21:30.332523'
+  - - 6
+    - educational
+    - '2020-02-24 03:21:53.007139'
+    - '2020-02-24 03:21:53.007139'
+  - - 7
+    - bruh
+    - '2020-02-24 03:22:07.493530'
+    - '2020-02-24 03:22:07.493530'
+  - - 8
+    - facts
+    - '2020-02-24 03:23:02.579020'
+    - '2020-02-24 03:23:02.579020'
+  - - 9
+    - bruh moment
+    - '2020-02-24 03:24:14.890389'
+    - '2020-02-24 03:24:14.890389'
+  - - 10
+    - 日本語
+    - '2020-02-24 03:25:19.129260'
+    - '2020-02-24 03:25:19.129260'
+  - - 11
+    - jotaro vs dio
+    - '2020-02-24 03:26:00.782363'
+    - '2020-02-24 03:26:00.782363'

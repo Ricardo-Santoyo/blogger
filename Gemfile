@@ -33,6 +33,8 @@ gem 'paperclip'
 
 gem 'sorcery'
 
+gem 'yaml_db'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
